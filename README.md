@@ -1,4 +1,4 @@
-# qtxalan.github.io
+# alanp-xyz.github.io
 
 Welcome to my personal GitHub Hub! This repository hosts the main landing page for my web applications, scripts, and open-source projects.
 
