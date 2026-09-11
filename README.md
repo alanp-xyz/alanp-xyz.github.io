@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub Hub! This repository hosts the main landing page for my web applications, scripts, and open-source projects.
 
-👉 **Live Page:** [https://qtxalan.github.io](https://qtxalan.github.io)
+👉 **Live Page:** [https://alanp-xyz.github.io](https://alanp-xyz.github.io)
 
 ## 🌐 What's inside?
 This landing page serves as a central directory to easily navigate through my custom builds and tools:
